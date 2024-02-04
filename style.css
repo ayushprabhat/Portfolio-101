@@ -367,11 +367,7 @@ article.icon {
     border-radius: 2rem;
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
-    text-align: center;
-}
-
-.details-containers p .section__text__p1 {
-    text-align: center;
+    text-align: center;   
 }
 
 .details-containers p {
